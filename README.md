@@ -1,2 +1,2 @@
 # electroma-plus
-Ссылка проект nickfutur.github.io/electroma-plus/index.html
+Ссылка проект https://nickfutur.github.io/electroma-plus/index.html
